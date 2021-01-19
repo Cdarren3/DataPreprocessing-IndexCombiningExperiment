@@ -1,4 +1,4 @@
-# Data Preprocessing for Index Calculation Experiment
+# Data Preprocessing for Index Combining Experiment
 
 
  [KITEC](https://www.kitec.com.hk/eng/info_location.html) 
