@@ -1,12 +1,13 @@
-# DataPreprocessing-IndexCalculationExperiment
+# Data Preprocessing for Index Calculation Experiment
 
 
-Collected indoor events data from 2018-2020. This is a data cleaning project following a web scraping work done on events held in [KITEC](https://www.kitec.com.hk/eng/info_location.html) 
+ [KITEC](https://www.kitec.com.hk/eng/info_location.html) 
 
 ## Objectives
 
 
-Explore the feasibility of calculating index for study purpose 
+* Explore the feasibility of calculating index based on existing social data available online for study purpose 
+* Assuming every index share equal weight for the combined index
 
 
 ## Tools Involved
@@ -14,4 +15,4 @@ Explore the feasibility of calculating index for study purpose
 * Pandas
 * Numpy
 
-## Data Collection & Preprocessing
+
