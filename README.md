@@ -6,11 +6,12 @@ Collected indoor events data from 2018-2020. This is a data cleaning project fol
 ## Objectives
 
 
-Transform data into cleaned and usable event data for further study
+Explore the feasibility of calculating index for study purpose 
+
 
 ## Tools Involved
 
 * Pandas
-* Regex
+* Numpy
 
 ## Data Collection & Preprocessing
